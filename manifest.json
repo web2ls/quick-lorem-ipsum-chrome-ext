@@ -1,10 +1,10 @@
 {
-    "name": "Quick Lorem",
+    "name": "Quick Lorem Ipsum",
     "description": "Get 'Lorem Ipsum' single paragraph instantly",
-    "version": "1.0",
+    "version": "0.0.1",
     "manifest_version": 3,
     "action": {
-      "default_title": "Click to get text"
+      "default_title": "Click to get template"
     },
     "icons": {
         "16": "icons/icon16.png",
